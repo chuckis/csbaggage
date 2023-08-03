@@ -1,0 +1,142 @@
+[{:block/name "3 клас (корнієнко)",
+  :block/created-at 1665320147088,
+  :block/updated-at 1665320147088}
+ {:block/name "8 клас (ривкінд)",
+  :block/created-at 1665320147632,
+  :block/updated-at 1665320147632}
+ {:block/name "a",
+  :block/created-at 1664648111502,
+  :block/updated-at 1664648111502}
+ {:block/name "b",
+  :block/created-at 1664648111502,
+  :block/updated-at 1664648111502}
+ {:block/name "c",
+  :block/created-at 1664648111502,
+  :block/updated-at 1664648111502}
+ {:block/name "canceled",
+  :block/created-at 1664648111502,
+  :block/updated-at 1664648111502}
+ {:block/name "cancelled",
+  :block/created-at 1664648111502,
+  :block/updated-at 1664648111502}
+ {:block/name "card",
+  :block/created-at 1664648111501,
+  :block/updated-at 1664648111501}
+ {:block/name "card**дані**",
+  :block/created-at 1665320146956,
+  :block/updated-at 1665320146956}
+ {:block/name "contents",
+  :block/created-at 1664648111501,
+  :block/updated-at 1664648111501}
+ {:block/name "doing",
+  :block/created-at 1664648111502,
+  :block/updated-at 1664648111502}
+ {:block/name "done",
+  :block/created-at 1664648111501,
+  :block/updated-at 1664648111501}
+ {:block/name "favorites",
+  :block/created-at 1664648111501,
+  :block/updated-at 1664648111501}
+ {:block/name "in-progress",
+  :block/created-at 1664648111502,
+  :block/updated-at 1664648111502}
+ {:block/name "index",
+  :block/created-at 1664644899163,
+  :block/updated-at 1665325077362}
+ {:block/name "later",
+  :block/created-at 1664648111502,
+  :block/updated-at 1664648111502}
+ {:block/name "now",
+  :block/created-at 1664648111501,
+  :block/updated-at 1664648111502}
+ {:block/name "todo",
+  :block/created-at 1664648111502,
+  :block/updated-at 1664648111502}
+ {:block/name "wait",
+  :block/created-at 1664648111501,
+  :block/updated-at 1664648111501}
+ {:block/name "waiting",
+  :block/created-at 1664648111501,
+  :block/updated-at 1664648111501}
+ {:block/name "біт",
+  :block/created-at 1665320147279,
+  :block/updated-at 1665320147279}
+ {:block/name "види комп'ютерів",
+  :block/created-at 1664644968494,
+  :block/updated-at 1664789075926}
+ {:block/name "види роздільної здатності дисплеїв",
+  :block/created-at 1664711714252,
+  :block/updated-at 1664711714252}
+ {:block/name "данные",
+  :block/created-at 1664732264912,
+  :block/updated-at 1664733608946}
+ {:block/name "дані",
+  :block/created-at 1664722466594,
+  :block/updated-at 1664722466594}
+ {:block/name "двійкове кодування",
+  :block/created-at 1665320147388,
+  :block/updated-at 1665320147388}
+ {:block/name "информационные процессы",
+  :block/created-at 1664732264961,
+  :block/updated-at 1664781746047}
+ {:block/name "код",
+  :block/created-at 1665320147511,
+  :block/updated-at 1665320147511}
+ {:block/name "кодування",
+  :block/created-at 1665320147656,
+  :block/updated-at 1665320147656}
+ {:block/name "обработка информации",
+  :block/created-at 1665320151556,
+  :block/updated-at 1665320151556}
+ {:block/name
+  "очікування по темі \"кодування даних та апаратне забезпечення\"",
+  :block/created-at 1664714446114,
+  :block/updated-at 1664734233937}
+ {:block/name "очікування по темі \"опрацювання текстових даних\"",
+  :block/created-at 1665320512341,
+  :block/updated-at 1665325302252}
+ {:block/name "передача информации",
+  :block/created-at 1665320147898,
+  :block/updated-at 1665320147898}
+ {:block/name "повідомлення",
+  :block/created-at 1665320147503,
+  :block/updated-at 1665320147503}
+ {:block/name "представление информации",
+  :block/created-at 1665320151551,
+  :block/updated-at 1665320151551}
+ {:block/name "сбор информации",
+  :block/created-at 1665320151546,
+  :block/updated-at 1665320151546}
+ {:block/name "символ",
+  :block/created-at 1665320147643,
+  :block/updated-at 1665320147643}
+ {:block/name "співвідношення дисплеїв",
+  :block/created-at 1664712362331,
+  :block/updated-at 1664712362331}
+ {:block/name "створення багаторівневих списків",
+  :block/created-at 1665325175513,
+  :block/updated-at 1665328569265}
+ {:block/name "створення колонтитулів",
+  :block/created-at 1665325302249,
+  :block/updated-at 1665325302249}
+ {:block/name "створення розділів у текстовому документі",
+  :block/created-at 1665325223784,
+  :block/updated-at 1665325223784}
+ {:block/name "створення стовпців",
+  :block/created-at 1665325279944,
+  :block/updated-at 1665325279944}
+ {:block/name "суперкомп'ютер",
+  :block/created-at 1665320147795,
+  :block/updated-at 1665320147795}
+ {:block/name "хранение информации",
+  :block/created-at 1665320151561,
+  :block/updated-at 1665320151561}
+ {:block/name "что  такое плотность пикселей",
+  :block/created-at 1664712536037,
+  :block/updated-at 1664713068015}
+ {:block/name "інформатика",
+  :block/created-at 1665320147096,
+  :block/updated-at 1665320147096}
+ {:block/name "інформація",
+  :block/created-at 1665320147206, 
+  :block/updated-at 1665320147206}]

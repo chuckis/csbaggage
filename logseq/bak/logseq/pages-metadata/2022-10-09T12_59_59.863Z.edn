@@ -1,0 +1,124 @@
+[{:block/name "3 клас (корнієнко)",
+  :block/created-at 1664782598541,
+  :block/updated-at 1664782598541}
+ {:block/name "8 клас (ривкінд)",
+  :block/created-at 1664782330350,
+  :block/updated-at 1664782330350}
+ {:block/name "a",
+  :block/created-at 1664648111502,
+  :block/updated-at 1664648111502}
+ {:block/name "b",
+  :block/created-at 1664648111502,
+  :block/updated-at 1664648111502}
+ {:block/name "c",
+  :block/created-at 1664648111502,
+  :block/updated-at 1664648111502}
+ {:block/name "canceled",
+  :block/created-at 1664648111502,
+  :block/updated-at 1664648111502}
+ {:block/name "cancelled",
+  :block/created-at 1664648111502,
+  :block/updated-at 1664648111502}
+ {:block/name "card",
+  :block/created-at 1664648111501,
+  :block/updated-at 1664648111501}
+ {:block/name "card**дані**",
+  :block/created-at 1664781436322,
+  :block/updated-at 1664781436322}
+ {:block/name "contents",
+  :block/created-at 1664648111501,
+  :block/updated-at 1664648111501}
+ {:block/name "doing",
+  :block/created-at 1664648111502,
+  :block/updated-at 1664648111502}
+ {:block/name "done",
+  :block/created-at 1664648111501,
+  :block/updated-at 1664648111501}
+ {:block/name "favorites",
+  :block/created-at 1664648111501,
+  :block/updated-at 1664648111501}
+ {:block/name "in-progress",
+  :block/created-at 1664648111502,
+  :block/updated-at 1664648111502}
+ {:block/name "index",
+  :block/created-at 1664644899163,
+  :block/updated-at 1664795997599}
+ {:block/name "later",
+  :block/created-at 1664648111502,
+  :block/updated-at 1664648111502}
+ {:block/name "now",
+  :block/created-at 1664648111501,
+  :block/updated-at 1664648111502}
+ {:block/name "todo",
+  :block/created-at 1664648111502,
+  :block/updated-at 1664648111502}
+ {:block/name "wait",
+  :block/created-at 1664648111501,
+  :block/updated-at 1664648111501}
+ {:block/name "waiting",
+  :block/created-at 1664648111501,
+  :block/updated-at 1664648111501}
+ {:block/name "біт",
+  :block/created-at 1664784405226,
+  :block/updated-at 1664784491585}
+ {:block/name "види комп'ютерів",
+  :block/created-at 1664644968494,
+  :block/updated-at 1664789075926}
+ {:block/name "види роздільної здатності дисплеїв",
+  :block/created-at 1664711714252,
+  :block/updated-at 1664711714252}
+ {:block/name "данные",
+  :block/created-at 1664732264912,
+  :block/updated-at 1664733608946}
+ {:block/name "двійкове кодування",
+  :block/created-at 1664784162717,
+  :block/updated-at 1664785049331}
+ {:block/name "информационные процессы",
+  :block/created-at 1664732264961,
+  :block/updated-at 1664781746047}
+ {:block/name "код",
+  :block/created-at 1664784576340,
+  :block/updated-at 1664784703662}
+ {:block/name "кодування",
+  :block/created-at 1664781997352,
+  :block/updated-at 1664784162718}
+ {:block/name "обработка информации",
+  :block/created-at 1664781699178,
+  :block/updated-at 1664781699178}
+ {:block/name
+  "очікування по темі \"кодування даних та апаратне забезпечення\"",
+  :block/created-at 1664714446114,
+  :block/updated-at 1664734233937}
+ {:block/name "передача информации",
+  :block/created-at 1664781746046,
+  :block/updated-at 1664783766116}
+ {:block/name "повідомлення",
+  :block/created-at 1664783766114,
+  :block/updated-at 1664784029254}
+ {:block/name "представление информации",
+  :block/created-at 1664781680190,
+  :block/updated-at 1664781680190}
+ {:block/name "сбор информации",
+  :block/created-at 1664781659217,
+  :block/updated-at 1664781659217}
+ {:block/name "символ",
+  :block/created-at 1664782748574,
+  :block/updated-at 1664782897193}
+ {:block/name "співвідношення дисплеїв",
+  :block/created-at 1664712362331,
+  :block/updated-at 1664712362331}
+ {:block/name "суперкомп'ютер",
+  :block/created-at 1664789075925,
+  :block/updated-at 1664789400984}
+ {:block/name "хранение информации",
+  :block/created-at 1664781718391,
+  :block/updated-at 1664781718391}
+ {:block/name "что  такое плотность пикселей",
+  :block/created-at 1664712536037,
+  :block/updated-at 1664713068015}
+ {:block/name "інформатика",
+  :block/created-at 1664785208612,
+  :block/updated-at 1664785274694}
+ {:block/name "інформація",
+  :block/created-at 1664795997598, 
+  :block/updated-at 1664796123579}]
