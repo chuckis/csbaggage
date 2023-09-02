@@ -322,4 +322,5 @@
  :publishing/all-pages-public? true
  :editor/logical-outdenting? true
  :journal/page-title-format "yyyy-MM-dd"
+ :ui/show-brackets? false
  }
